@@ -1,4 +1,4 @@
-"""Télécharge la série S&P 500 depuis FRED dans data/raw/SP500.csv."""
+"""Télécharge la série S&P 500 depuis FRED dans data/raw."""
 from datetime import date
 from pathlib import Path
 
